@@ -24,7 +24,3 @@ Proyecto para probar Integración Continua (CI).
 
 Markdown License badges
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
-
-## Licencia
-
-Prueba Integración es un proyecto de software de código abierto sobre la licencia [MIT license](http://opensource.org/licenses/MIT).
