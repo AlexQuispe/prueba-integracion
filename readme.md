@@ -5,8 +5,8 @@
     <a href="https://github.com/waquispe/prueba-integracion/releases">
         <img src="https://img.shields.io/github/release/waquispe/prueba-integracion.svg?maxAge=2592000" alt="Release">
     </a>
-    <a href="https://github.com/waquispe/prueba-integracion/releases">
-        <img src="https://img.shields.io/github/downloads/waquispe/prueba-integracion/latest/total.svg" alt="Downloads">
+    <a href="https://github.com/waquispe/prueba-integracion">
+        <img src="https://img.shields.io/github/downloads/waquispe/prueba-integracion/total.svg" alt="Downloads">
     </a>
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/github/license/waquispe/prueba-integracion.svg" alt="License: MIT">
