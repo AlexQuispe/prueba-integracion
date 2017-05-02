@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/travis/waquispe/prueba-integracion.svg" alt="Build Status">
     </a>
     <a href="https://github.com/waquispe/prueba-integracion/releases">
-        <img src="https://img.shields.io/github/release/waquispe/prueba-integracion.svg?maxAge=2592000" alt="Release">
+        <img src="https://img.shields.io/github/release/waquispe/prueba-integracion.svg" alt="Release">
     </a>
     <a href="https://github.com/waquispe/prueba-integracion/">
         <img src="https://img.shields.io/github/downloads/waquispe/prueba-integracion/total.svg" alt="Downloads">
